@@ -1,0 +1,10 @@
+{
+    "$schema": "https://schemas.cute.engineering/stable/cutekit.manifest.component.v1",
+    "id": "kapalaframe-crypto",
+    "type": "lib",
+    "description": "Cryptographic functions and utilities",
+    "requires": [
+        "kapalaframe-io",
+        "kapalaframe-math"
+    ]
+}
